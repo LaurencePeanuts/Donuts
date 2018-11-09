@@ -1,0 +1,7 @@
+References:
+
+BAMBI paper:
+https://arxiv.org/abs/1110.2997
+
+Bayesian optimization with neural networks
+https://arxiv.org/pdf/1502.05700.pdf
